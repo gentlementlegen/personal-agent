@@ -1,0 +1,12 @@
+{
+  "name": "plugin-template",
+  "short_name": "gentlementlegen/personal-agent@feat/320-workflow-artifact-migration",
+  "description": "Ubiquibot plugin template repository with TypeScript support.",
+  "ubiquity:listeners": [],
+  "skipBotEvents": true,
+  "configuration": {
+    "default": {},
+    "type": "object",
+    "properties": {}
+  }
+}
